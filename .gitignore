@@ -2,3 +2,5 @@ env
 __pycache__
 migrations
 __init__
+.vscode
+db.sqlite3
